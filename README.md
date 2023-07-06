@@ -1,2 +1,2 @@
 # hackathon-hva
-click here to visit the website: travelbuddy-hva.netlify.app
+click here to visit the website: https://travelbuddy-hva.netlify.app/
